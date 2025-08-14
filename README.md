@@ -51,7 +51,9 @@ build/converter_tests — the test program
 
 ### 4) Run tests
 
+```bash
 ctest --test-dir build --output-on-failure
+```
 
 ### 5) (Optional) Release build (faster binary)
 
