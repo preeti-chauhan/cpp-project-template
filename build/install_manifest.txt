@@ -1,0 +1,2 @@
+/Users/preetichauhan/Dev/dev_c_cpp/cpp-project-template/./install/bin/temp_app
+/Users/preetichauhan/Dev/dev_c_cpp/cpp-project-template/./install/include/temperature/convert.hpp

@@ -1,0 +1,22 @@
+Start testing: Aug 13 17:39 PDT
+----------------------------------------------------------
+1/1 Testing: unit
+1/1 Test: unit
+Command: "/Users/preetichauhan/Dev/dev_c_cpp/cpp-project-template/build/converter_tests"
+Directory: /Users/preetichauhan/Dev/dev_c_cpp/cpp-project-template/build
+"unit" start time: Aug 13 17:39 PDT
+Output:
+----------------------------------------------------------
+[OK] c_to_f(0) -> 32
+[OK] c_to_f(100) -> 212
+[OK] f_to_c(32) -> 0
+[OK] f_to_c(212) -> 100
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"unit" end time: Aug 13 17:39 PDT
+"unit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 13 17:39 PDT
